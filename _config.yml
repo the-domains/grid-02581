@@ -1,0 +1,76 @@
+layout_spectrum: 0.04438107960248864
+typography_spectrum: 0.05948626498488876
+color:
+  brandStrength: 0.16408032780863566
+  lightness: 0.6755445341720698
+  saturation: 0.6775206992373166
+  rhythmicContrast: 0.3028807160048054
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: grid
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30ead29d-1633-48d7-8dbe-962c79f9a97c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/30ead29d-1633-48d7-8dbe-962c79f9a97c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86120356-d1a5-4ed9-8003-3a0bbab376d7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/86120356-d1a5-4ed9-8003-3a0bbab376d7.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://thegrid.ai/grid/'
+title: '{g}reat {r}esults {i}n {d}zign'
+description: the perfect recipe ~ colab with friends
+analytics:
+  google: UA-100562900-1
+github: true
